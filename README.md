@@ -3,6 +3,10 @@ reuseable skills for all ai agents
 
 English | [简体中文](README.zh-CN.md)
 
+> New here? See [Installing & Using a Skill](docs/installing-skills.md) for how
+> to install these skills in Claude Code, Codex, OpenClaw, Kiro, Trae, Cursor,
+> Qoder, and more.
+
 # SKILL list
 
 ## axis (an AI coach that helps you master AI)

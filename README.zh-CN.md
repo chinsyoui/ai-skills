@@ -4,9 +4,13 @@
 
 [English](README.md) | 简体中文
 
+> 第一次使用？参见[安装与使用 Skill](docs/installing-skills.zh-CN.md)，了解如何
+> 在 Claude Code、Codex、OpenClaw、Kiro、Trae、Cursor、Qoder 等系统中安装这些
+> skill。
+
 # 技能列表
 
-## axis（帮助人驾驭AI的AI教练）
+## axis（一个帮助你驾驭AI的AI教练）
 description: >
   一个帮助你从 AI 获得更好结果的 AI 教练，方式是强化
   表达力（Articulation）、多领域的心智模型（Model）和品味（Taste）——
@@ -14,7 +18,7 @@ description: >
   适用于：优化提示词、诊断 AI 输出为何不达预期、
   构建领域理解，磨练对 AI 生成内容的判断力，系统性基于用户的现有知识技能拓展到另一个专业领域。
 
-## adversarial-self-assessment（对抗式自我评估）
+## adversarial-self-assessment（帮助你严谨地评估自己的核心竞争力）
 description: >
   由 AI 驱动的个人核心能力对抗式验证。
   引导你定义自己声称擅长的领域，将"擅长"对标真实世界的基准，
